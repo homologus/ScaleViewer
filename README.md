@@ -7,7 +7,7 @@ i) Web-based with draggable view.
 
 ii) Zoom in and zoom out feature going from nucleotide level to chromosome level.
 
-iii) Contains module for multi-genome viewer.
+iii) Contains module for multi-genome viewer. Synchronized drag for multi-genome data sets.
 
 iv) Allows inclusion of BAM files.
 
@@ -17,4 +17,6 @@ vi) Easy to set password-protected accounts for groups or databases and has opti
 
 vii) Web-based administration module.
 
-viii) Modular design allowing addition of modules, plug-ins and themes. 
+viii) Modular design allowing addition of modules, plug-ins and themes.
+
+ix) DAS access of data.
