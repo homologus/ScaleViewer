@@ -35,5 +35,7 @@ ii)  PHP - Laravel
 
 iii) MySQL/PostgresSQL/SQLite
 
+iv) SAM/BAM support
+
 
 
