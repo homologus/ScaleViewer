@@ -21,3 +21,17 @@ viii) It has web-based administration module, where the administrator can turn o
 
 ix) Its modular design allows addition of additional functionality, plug-ins and themes without much effort.
 
+x) It allows easy connection with Amazon S3 and other cloud-based storage platforms.
+
+
+--------------------
+
+Technology
+----------
+
+i)   HTML5
+ii)  PHP - Laravel
+iii) MySQL/PostgresSQL/SQLite
+
+
+
