@@ -30,7 +30,9 @@ Technology
 ----------
 
 i)   HTML5
+
 ii)  PHP - Laravel
+
 iii) MySQL/PostgresSQL/SQLite
 
 
