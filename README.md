@@ -3,20 +3,21 @@ ScaleViewer
 
 ScaleViewer is a genome browser with following features.
 
-i) Web-based with draggable view.
+i) It is Javascript-based with draggable views and server-side database support.
 
-ii) Zoom in and zoom out feature going from nucleotide level to chromosome level.
+ii) It has zoom in and zoom out functions going aal the way from nucleotide level to chromosome level.
 
-iii) Contains module for multi-genome viewer. Synchronized drag for multi-genome data sets.
+iii) It allows synchronized viewing of multiple genomes. Synchronized drag refreshes all images.
 
-iv) Allows inclusion of BAM files.
+iv) Allows inclusion of BAM files, gff annotations and other formats.
 
-v) Very easy installation and upgrade procedure (click-based) that does not corrupt existing data.
+v) It allows DAS access of annotations from multiple sources (RESTful architecture).
 
-vi) Easy to set password-protected accounts for groups or databases and has option for making some data sets public and some private with various group controls.
+vi) Very easy installation and upgrade procedure (click-based) that does not corrupt existing data.
 
-vii) Web-based administration module.
+vii) Easy to set password-protected accounts for groups or databases and has option for making some data sets public and some private with various group controls.
 
-viii) Modular design allowing addition of modules, plug-ins and themes.
+viii) It has web-based administration module, where the administrator can turn on and off access for individual data sets and viewers.
 
-ix) DAS access of data.
+ix) Its modular design allows addition of additional functionality, plug-ins and themes without much effort.
+
